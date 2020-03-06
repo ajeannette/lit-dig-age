@@ -53,5 +53,5 @@ Scroll up to the top of this page and click on the button that says "Raw". Do th
 
 In the module files' image links, why do you find `../images/` rather than `images/` ?
 
-[&lt;&lt; Previous](filenav.md) | [Home](../README.md)
+[&lt;&lt; Previous](filenav.md) | [Next &gt;&gt;](markdownreadings.md) | [Home](../lit-dig-age)
 
