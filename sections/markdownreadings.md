@@ -12,3 +12,5 @@ Read this guide from GitHub to get a better understanding of Markdown and how we
 
 - How does this tool enrich plain text?
 - What is the benefit of writing documents using Markdown rather than a word processor?
+
+| [Home](https://github.com/ajeannette/lit-dig-age) |
